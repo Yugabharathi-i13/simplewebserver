@@ -1,4 +1,5 @@
-# EX01 Developing a Simple Webserver
+
+ EX01 Developing a Simple Webserver
 ## Date:27/04/2025
 
 ## AIM:
@@ -39,7 +40,7 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 
 ## OUTPUT:
-![alt text](image.png)
+-*****************************************************************
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
